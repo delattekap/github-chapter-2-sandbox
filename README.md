@@ -1,3 +1,2 @@
 This is a new Readme file
-
-new
+today is 27. October 2025
